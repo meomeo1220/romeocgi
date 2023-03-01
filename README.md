@@ -11,7 +11,7 @@ Dependencies:
 - Vite-Plugin
 - InertiaJS
 
-
+Install Command:
 ```bash
   npm install 
   npm run dev
